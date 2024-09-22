@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/Website-Machine%20Learning%20Repo-blue)](https://dr-saad-la.github.io/ML-Datasets/)
 [![View Datasets](https://img.shields.io/badge/View-Datasets%20Here-important)](https://kaggle.com/datasets)
-<!-- [![Build Status](https://github.com/dr-saad-la/ML-Datasets/actions/workflows/main.yml/badge.svg)](https://github.com/dr-saad-la/ML-Datasets/actions) -->
 [![GitHub issues](https://img.shields.io/github/issues/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/dr-saad-la/ML-Datasets?style=social)](https://github.com/dr-saad-la/ML-Datasets/stargazers)
@@ -12,6 +11,9 @@
 [![Platforms](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-orange)](https://github.com/dr-saad-la/ML-Datasets)
 [![Twitter](https://img.shields.io/twitter/follow/DrsSaadLa?style=social)](https://twitter.com/dr_saad_la)
 [![GitHub license](https://img.shields.io/github/license/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/blob/main/LICENSE)
+
+
+<!-- [![Build Status](https://github.com/dr-saad-la/ML-Datasets/actions/workflows/main.yml/badge.svg)](https://github.com/dr-saad-la/ML-Datasets/actions) -->
 
 
 The Machine Learning Datasets repository provides a curated collection of datasets specifically designed for use in various machine learning tasks, including regression and classification.
