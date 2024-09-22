@@ -14,27 +14,13 @@ The Machine Learning Datasets repository provides a curated collection of datase
   - [Classification Datasets](#classification-datasets)
 - [Usage](#usage)
 - [Resources](#resources)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Introduction
 
 The datasets included in this repository cover a wide range of machine learning problems and are suitable for use in educational projects, research, and development. Each dataset is accompanied by a brief description, format details, and potential use cases.
 
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Available Datasets](#available-datasets)
-  - [Regression Datasets](#regression-datasets)
-  - [Classification Datasets](#classification-datasets)
-- [Usage Instructions](#usage-instructions)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-
-## Introduction
-
-The datasets in this repository cover a wide range of machine learning problems and are ideal for **educational projects**, **research**, and **development**. Each dataset comes with a brief description, format details, and potential use cases to guide you in selecting the right dataset for your task.
 
 ## Available Datasets
 
