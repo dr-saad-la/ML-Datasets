@@ -1,5 +1,12 @@
 # Machine Learning Datasets
 
+[![HTML Demo](https://img.shields.io/badge/Demo-HTML%20Shining%20Text-brightgreen)](https://dr-saad-la.github.io/ML-Datasets/index.html)
+[![Website](https://img.shields.io/badge/Website-Machine%20Learning%20Repo-blue)](https://dr-saad-la.github.io/ML-Datasets/)
+[![View Datasets](https://img.shields.io/badge/View-Datasets%20Here-important)](https://kaggle.com/datasets)
+[![GitHub license](https://img.shields.io/github/license/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/blob/main/LICENSE)
+
+
+
 The Machine Learning Datasets repository provides a curated collection of datasets specifically designed for use in various machine learning tasks, including regression and classification.
 
 ## Author
