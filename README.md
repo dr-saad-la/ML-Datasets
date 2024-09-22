@@ -6,7 +6,6 @@
 [![GitHub license](https://img.shields.io/github/license/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/blob/main/LICENSE)
 
 
-
 The Machine Learning Datasets repository provides a curated collection of datasets specifically designed for use in various machine learning tasks, including regression and classification.
 
 ## Author
