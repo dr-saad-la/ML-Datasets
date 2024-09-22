@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Machine%20Learning%20Repo-blue)](https://dr-saad-la.github.io/ML-Datasets/)
 [![View Datasets](https://img.shields.io/badge/View-Datasets%20Here-important)](https://kaggle.com/datasets)
-[![Build Status](https://github.com/dr-saad-la/ML-Datasets/actions/workflows/main.yml/badge.svg)](https://github.com/dr-saad-la/ML-Datasets/actions)
+<!-- [![Build Status](https://github.com/dr-saad-la/ML-Datasets/actions/workflows/main.yml/badge.svg)](https://github.com/dr-saad-la/ML-Datasets/actions) -->
 [![GitHub issues](https://img.shields.io/github/issues/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/dr-saad-la/ML-Datasets?style=social)](https://github.com/dr-saad-la/ML-Datasets/stargazers)
