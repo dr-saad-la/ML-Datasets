@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/badge/Website-Machine%20Learning%20Repo-blue)](https://dr-saad-la.github.io/ML-Datasets/)
 [![View Datasets](https://img.shields.io/badge/View-Datasets%20Here-important)](https://kaggle.com/datasets)
-[![View Datasets](https://img.shields.io/badge/View-Datasets%20Here-important)](https://kaggle.com/datasets)
-[![GitHub license](https://img.shields.io/github/license/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/blob/main/LICENSE)
 [![Build Status](https://github.com/dr-saad-la/ML-Datasets/actions/workflows/main.yml/badge.svg)](https://github.com/dr-saad-la/ML-Datasets/actions)
 [![GitHub issues](https://img.shields.io/github/issues/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/pulls)
@@ -12,8 +10,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets)
 [![Platforms](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-orange)](https://github.com/dr-saad-la/ML-Datasets)
-[![Python Version](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)](https://github.com/dr-saad-la/ML-Datasets)
-[![Twitter](https://img.shields.io/twitter/follow/dr_saad_la?style=social)](https://twitter.com/dr_saad_la)
+[![Twitter](https://img.shields.io/twitter/follow/DrsSaadLa?style=social)](https://twitter.com/dr_saad_la)
 [![GitHub license](https://img.shields.io/github/license/dr-saad-la/ML-Datasets)](https://github.com/dr-saad-la/ML-Datasets/blob/main/LICENSE)
 
 
