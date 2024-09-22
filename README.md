@@ -46,7 +46,7 @@ curl -o dataset_name.csv https://path_to_dataset
 This repository is maintained by:
 
 **Dr. Saad Laouadi**  
-[GitHub Profile](https://github.com/yourprofile)  
+[Dr Saad Laouadi](https://github.com/dr-saad-la)
 [dr.saad.laouadi@gmail.com](mailto:dr.saad.laouadi@gmail.com)
 
 ## License
