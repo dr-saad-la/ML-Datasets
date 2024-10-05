@@ -111,7 +111,8 @@ In addition to the datasets available in this repository, here are some external
 - [**Complete Collection of Data Repositories – Part 2**](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-2.html) – Covers healthcare, research, transportation, and more.
 
 
-
+### Miscellaneous 
+1. [AutoML Data](https://automl.chalearn.org/data)
 ## Contributing
 
 We welcome and encourage contributions to this repository! Whether you have new datasets to share, improvements to existing datasets, or suggestions for enhancing the repository, your input is valuable. To contribute:
